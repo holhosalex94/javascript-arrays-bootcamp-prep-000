@@ -4,5 +4,6 @@ function addElementToBeginningOfArray(array, element){
   if(element == 'foo'){
     intArray.unshift(element);
   }
-  return array, intArray;
+  
+   intArray;
 }
