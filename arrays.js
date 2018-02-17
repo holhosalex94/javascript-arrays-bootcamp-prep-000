@@ -4,5 +4,5 @@ function addElementToBeginningOfArray(array, element){
   if(element == 'foo'){
     intArray = ['foo', 1];
   }
-  array = intArray;
+  return intArray;
 }
