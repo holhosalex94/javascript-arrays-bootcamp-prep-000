@@ -4,7 +4,4 @@ function addElementToBeginningOfArray(array, element){
   if(element !== undefined){
    array.unshift(element);
   }
-  else{
-    array = array;
-  }
 }
