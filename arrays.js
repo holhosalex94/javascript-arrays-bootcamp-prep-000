@@ -5,5 +5,5 @@ function addElementToBeginningOfArray(array, element){
     intArray.unshift(element);
   }
   
-   intArray;
+   console.log(intArray);
 }
